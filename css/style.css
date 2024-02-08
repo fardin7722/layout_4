@@ -1,0 +1,58 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.a{
+    height: 100px;
+    background-color: cadetblue;
+    text-align: center;
+    font-size: 20px;
+
+}
+.b{
+    height: 108px;
+    background-color: darkgrey;
+    text-align: center;
+    font-size: 20px;
+
+
+}
+.c{
+    height: 400px;
+    display: flex;
+
+}
+.d{
+    height: 400px;
+    width: 70%;
+
+
+}
+.e{ height: 50%;
+    background-color: blue;
+    text-align: center;
+    font-size: 20px;
+
+
+}
+.f{
+    height: 50%;
+    background-color: aquamarine;
+    text-align: center;
+    font-size: 20px;
+
+}
+.g{
+    width: 30%;
+    background-color: crimson;
+    text-align: center;
+    font-size: 30px;
+
+}
+.h{
+    height: 70px;
+    background-color: yellow;
+    text-align: center;
+    font-size: 20px;
+
+}
